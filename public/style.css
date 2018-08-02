@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 0 auto;
+}
+.songs {
+    padding: 20px;
+    width: 200px;
+    border: 1px solid red;
+    margin-top: 10px;
+
+}
